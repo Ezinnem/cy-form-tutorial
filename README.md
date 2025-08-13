@@ -68,31 +68,6 @@ export default {
 
 ---
 
-## 📦 Production Build
-
-```bash
-npm run build
-```
-
-* Optimizes the app for production
-* Outputs to the `build/` folder
-
----
-
-## ⚙ Project Structure
-
-```
-├── src/                # React app source code
-├── public/             # Static assets
-├── cypress/            # Cypress test files & config
-│   ├── e2e/            # End-to-end test specs
-│   └── support/        # Cypress support files
-├── package.json
-└── README.md
-```
-
----
-
 ## 📚 Learn More
 
 * [React Documentation](https://reactjs.org/)
